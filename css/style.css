@@ -264,7 +264,7 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #004289;
+  color: #EF473A;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -275,7 +275,7 @@ h6 {
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {
-  color: #007bff;
+  color: black;
   text-decoration: none;
 }
 
@@ -1341,7 +1341,7 @@ h6 {
 
 @media (max-width: 991px) {
   #header {
-    height: 60px;
+    height: 80px;
     padding: 10px 0;
   }
 
